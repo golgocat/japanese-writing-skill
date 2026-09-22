@@ -1,0 +1,4 @@
+interface:
+  display_name: "Japanese Writing and Copywriting"
+  short_description: "Write clear Japanese copy and business prose"
+  default_prompt: "Use $japanese-writing to draft concise, purpose-appropriate Japanese."
