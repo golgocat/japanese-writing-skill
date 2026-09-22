@@ -107,7 +107,11 @@ Write natural Japanese whose tone and structure match the actual purpose. Do not
 - 標題 → 内容要旨（決定事項） → 詳細内容の順で書く。詳細は見出し → 小見出し → 説明文。
 - 日時（西暦・24時間・開始〜終了）、場所、出席者、次回をヘッダーで明示する。所見は社内のみ任意で、対外稿には書かない。
 - 時系列ログではなくテーマ塊に再配置する。発言者は名前で示し、数字・担当・期限を具体的に残す。
-- 項目ごとのタイムスタンプ、AI／ASR注意書き、em dashは使わない。詳細は [references/meeting-minutes.md](references/meeting-minutes.md)。
+- 項目ごとのタイムスタンプ、AI／ASR注意書き、em dashは使わない。
+- 1トピック1行。重要事項（要旨・決定）を先に、詳細は後。
+- 日本語版を最終確定してから英語版を作成する。英語版は日本語最終版の対訳とし、日本語にない情報を足さない。
+- 共有版はコピーして編集履歴を残さず、最終版以外の下書きは削除する。
+- 詳細と Preferred shared format は [references/meeting-minutes.md](references/meeting-minutes.md)。
 
 ## General workflow
 
